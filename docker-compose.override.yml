@@ -1,0 +1,16 @@
+services:
+  otel-collector:
+    image: otel/opentelemetry-collector-contrib:0.158.0
+    command: ["--config=/etc/otelcol-contrib/config.yaml"]
+    volumes:
+      - ./include/otel/collector-config.yaml:/etc/otelcol-contrib/config.yaml:ro
+      - ./traces:/traces
+    ports:
+      - "4317:4317"
+      - "4318:4318"
+    networks:
+      - airflow
+
+  scheduler:
+    volumes:
+      - ./traces:/traces

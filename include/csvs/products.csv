@@ -1,0 +1,22 @@
+product_id,product_sku,product_name,category_id,description,weight_kg,dimensions_cm,is_hazardous,requires_cold_chain,base_price_credits,is_active
+1,OXY-GEN-5000,Oxygen Generator Mark V,2,High-efficiency oxygen generation unit for medium spacecraft,45.5,60x40x50,false,false,2500.00,true
+2,H2O-REC-PRO,Water Recycler Pro,3,Advanced water purification and recycling system,38.2,50x50x60,false,false,3200.00,true
+3,AIR-SCRUB-X,Air Scrubber X-Series,4,Industrial grade CO2 scrubber,22.0,40x40x35,false,false,1800.00,true
+4,RATION-PACK-30,30-Day Ration Pack,6,Complete nutrition for 30 days,15.0,40x30x25,false,false,450.00,true
+5,HYDRO-KIT-START,Hydroponic Starter Kit,7,Everything needed to start growing food,8.5,30x30x20,false,false,320.00,true
+6,ION-DRIVE-MK3,Ion Drive Mark III,10,Efficient ion propulsion engine,120.0,100x80x80,false,false,45000.00,true
+7,NAV-COMP-ELITE,Navigation Computer Elite,11,Quantum-assisted navigation system,5.2,25x20x10,false,false,8500.00,true
+8,HULL-PLATE-TI,Titanium Hull Plate,12,Reinforced titanium hull section,85.0,200x100x5,false,false,1200.00,true
+9,COMM-ARRAY-LR,Long Range Comm Array,14,Deep space communication system,12.5,80x40x30,false,false,6800.00,true
+10,QUANTUM-PROC-Q5,Quantum Processor Q5,15,5th generation quantum computing unit,0.8,15x15x5,false,false,12000.00,true
+11,MULTI-SENSOR-PRO,Multi-Spectrum Sensor Pro,16,Advanced multi-spectrum detection,3.2,20x20x15,false,false,4500.00,true
+12,ZERO-G-BED,Zero-G Sleep Pod,18,Comfortable sleeping pod for zero gravity,25.0,200x80x80,false,false,2200.00,true
+13,THERMO-REG-3000,Thermal Regulator 3000,19,Precision climate control unit,18.5,50x40x40,false,false,1500.00,true
+14,SOLAR-LIGHT-LED,Solar LED Light Panel,20,High-efficiency lighting panel,2.5,60x60x5,false,false,180.00,true
+15,EVA-SUIT-MK7,EVA Suit Mark VII,22,Latest generation spacewalk suit,35.0,NA,false,false,28000.00,true
+16,RAD-SHIELD-VEST,Radiation Shield Vest,23,Personal radiation protection,4.5,NA,false,false,850.00,true
+17,EMERG-KIT-DELUXE,Deluxe Emergency Kit,24,Complete emergency survival kit,12.0,50x40x30,false,false,680.00,true
+18,VR-ENTERTAIN-SYS,VR Entertainment System,26,Immersive virtual reality system,3.0,30x20x15,false,false,950.00,true
+19,ZERO-G-BALL-SET,Zero-G Sports Ball Set,27,Magnetic sports equipment set,2.2,25x25x25,false,false,120.00,true
+20,LASER-DRILL-IND,Industrial Laser Drill,30,High-power mining laser,65.0,150x60x60,true,false,35000.00,true
+21,SELDON-CRYO-ICE,Seldon's Psychohistory Swirl,6,Freeze-dried Trantorian ice cream with probability-mapped flavor layers - tastes different every time but always delicious,0.5,15x10x10,false,true,45.00,true

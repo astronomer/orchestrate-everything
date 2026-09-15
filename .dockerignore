@@ -1,0 +1,9 @@
+astro
+.git
+.env
+airflow_settings.yaml
+logs/
+traces/
+.venv
+airflow.db
+airflow.cfg
